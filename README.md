@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>†hê Hêllẞø† 🇮🇳</b>
+  <b>KHATARNAAK BOT 🇮🇳</b>
 </h1>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <h6 align="center">
-  <b>⚡ ʟɛɢɛռɖaʀʏ ᴀғ ɦɛʟʟɮօt ⚡</b>
+  <b>⚡ ʟɛɢɛռɖaʀʏ ᴀғ KHATARNAAK⚡</b>
 </h6>
 
 <h3 align="center">
@@ -74,11 +74,11 @@
 - Install Requirements.
 
 `pip install -U -r requirements.txt`
-- Generate HELLBOT SESSION.
+- Generate KHATARNAAK SESSION.
 
 `python hell_string.py`
 - Create config.py or rename ex_config.py to config.py. Fill All The Required Variables.
-- Finally Start Hêllẞø† By
+- Finally Start KHATARNAAK By
 
 `bash start.sh`
 
