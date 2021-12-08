@@ -93,7 +93,7 @@
 - `BOT_USERNAME`  =  Get the username of that Bot made from [@Botfather](https://t.me/botfather)
 
 ------
-## HellBot Session
+## KHATARNAAK Session
 
 ### Repl
 - Open Repl Link.
